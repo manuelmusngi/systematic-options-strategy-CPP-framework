@@ -48,7 +48,7 @@ OptionsTradingSystem/\
 │ │ └── Greeks.hpp\
 │ └── utils/\
 │ ├── [ConfigLoader.hpp](https://github.com/manuelmusngi/systematic-options-cpp-framework/blob/main/src/utils/ConfigLoader.cpp)\
-│ └── MathUtils.hpp\
+│ └── [MathUtils.hpp](https://github.com/manuelmusngi/systematic-options-cpp-framework/blob/main/src/utils/MathUtils.cpp)\
 ├── src/\
 │ ├── primary/\
 │ │ ├── MarketData.cpp\
