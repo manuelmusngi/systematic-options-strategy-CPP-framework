@@ -65,7 +65,7 @@ OptionsTradingSystem/\
 │ │ └── MathUtils.cpp\
 │ └── main.cpp\
 ├── strategies/\
-│ ├── IronCondorStrategy.hpp\
+│ ├── [IronCondorStrategy.hpp](https://github.com/manuelmusngi/systematic-options-cpp-framework/blob/main/strategies/IronCondorStrategy.hpp)\
 │ └── IronCondorStrategy.cpp\
 └── config/\
 └── strategy_config.json(Example)
