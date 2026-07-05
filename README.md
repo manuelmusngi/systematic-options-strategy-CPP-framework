@@ -47,7 +47,7 @@ OptionsTradingSystem/\
 │ │ ├── Option.hpp\
 │ │ └── Greeks.hpp\
 │ └── utils/\
-│ ├── ConfigLoader.hpp\
+│ ├── [ConfigLoader.hpp](https://github.com/manuelmusngi/systematic-options-cpp-framework/blob/main/src/utils/ConfigLoader.cpp)\
 │ └── MathUtils.hpp\
 ├── src/\
 │ ├── primary/\
