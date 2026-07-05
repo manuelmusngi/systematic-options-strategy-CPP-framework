@@ -62,7 +62,7 @@ OptionsTradingSystem/\
 │ │ └── Greeks.cpp\
 │ ├── utils/\
 │ │ ├── [ConfigLoader.cpp](https://github.com/manuelmusngi/systematic-options-cpp-framework/blob/main/src/utils/ConfigLoader.cpp)\
-│ │ └── MathUtils.cpp\
+│ │ └── [MathUtils.cpp](https://github.com/manuelmusngi/systematic-options-cpp-framework/blob/main/src/utils/MathUtils.cpp)\
 │ └── main.cpp\
 ├── strategies/\
 │ ├── [IronCondorStrategy.hpp](https://github.com/manuelmusngi/systematic-options-cpp-framework/blob/main/strategies/IronCondorStrategy.hpp)\
